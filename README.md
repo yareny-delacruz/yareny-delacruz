@@ -6,18 +6,18 @@
 <p>
 ミ🌘 𝘐 𝘢𝘮 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘢𝘣𝘰𝘶𝘵 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘴𝘵𝘶𝘧𝘧 🌘彡
 
-:computer: ミ𝘐'𝘮 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘤𝘴 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘵 𝘜𝘗𝘐𝘐𝘊𝘚𝘈 彡
+ミ:computer: 𝘐'𝘮 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘤𝘴 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘵 𝘜𝘗𝘐𝘐𝘊𝘚𝘈 :computer:彡
 
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅. 
+ミ:vulcan_salute: 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯: 100 𝘋𝘢𝘺𝘴 100 𝘗𝘳𝘰𝘺𝘦𝘤𝘵𝘴 :vulcan_salute: 彡
 
-:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [monthly](http://github.com/xiaoluoboding/monthly) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
+ミ:writing_hand: 𝘔𝘦𝘮𝘣𝘦𝘳 𝘰𝘧 𝘉𝘪𝘯𝘢𝘳𝘺 𝘉𝘳𝘢𝘪𝘯𝘴 𝘜𝘗𝘐𝘐𝘊𝘚𝘈 :writing_hand:彡
 </p>
 <br><br>
 <img align="right" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="right" font-weight="bold">Acerca de mí</h2>  
+<h2 align="right" font-weight="bold">About me</h2>  
 <br><br>
 
-**Lenguajes que he usado**
+**Languages ​​I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -26,7 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
-**Tecnologías con las que he trabajado**
+**Technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
