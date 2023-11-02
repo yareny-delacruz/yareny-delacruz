@@ -38,9 +38,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yareny-delacruz&theme=blueberry" width="380"/>
 </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <p align="center">
     <a href="https://github.com/yareny-delacruz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yareny-delacruz&theme=tokyonight&hide_border=true"  width="520" alt="yareny-delacruz"/></a>
 <a href="https://github.com/yareny-delacruz"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yareny-delacruz&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="yareny-delacruz"/></a>
