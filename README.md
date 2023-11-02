@@ -49,6 +49,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=1400&pause=500&color=4e72b8&background=0000000E&center=true&multiline=true&width=1920&height=170&lines=Tools+and+Skills+uwu" alt="Typing SVG" /></a>
 </p>
 <div align = "center">
+	
 **Languages ​​I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
