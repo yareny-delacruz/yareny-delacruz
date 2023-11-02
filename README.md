@@ -1,4 +1,5 @@
-# (っ◔◡◔)っ ♥ Hello! Evernya, I'm Fuza ♥
+# (っ◔◡◔)っ ♥ Hello! Evernya, I'm Fuza ♥ 
+<img align="right" src = "[https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif](https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif)" width = 30px height=30px>
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=1400&pause=500&color=4e72b8&background=0000000E&center=true&multiline=true&width=1920&height=384&lines=Hello,+there+!;Welcome+to+my+GitHub+profile+uwu;ミミ◦❧◦°˚°◦.¸¸◦°´❤*•.¸♥ + ♥¸.•*❤´°◦¸¸.◦°˚°◦☙◦彡彡" alt="Typing SVG" /></a>
 </h1>
@@ -14,7 +15,7 @@
 <img align="right" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="right" font-weight="bold">Contact me</h2> 
 <p align="right">
-	<a href="[https://github.com/imakash3011](https://github.com/yareny-delacruz)"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://github.com/yareny-delacruz"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/fátimadelacruz00/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://instagram.com/naked_fuz4/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
