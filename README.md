@@ -26,8 +26,8 @@
 	<a href="https://instagram.com/naked_fuz4/"><img alt="instagram" width="15%" style="padding:8px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 </div>
-
-
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 **Languages ​​I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
