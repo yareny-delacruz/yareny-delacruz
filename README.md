@@ -29,7 +29,7 @@
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <p align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=1400&pause=500&color=4e72b8&background=0000000E&center=true&multiline=true&width=1920&height=184&lines=GitHub+stats+uwu" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=1400&pause=500&color=4e72b8&background=0000000E&center=true&multiline=true&width=1920&height=170&lines=GitHub+Stats+uwu" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/yareny-delacruz/">
@@ -43,6 +43,10 @@
 <p align="center">
     <a href="https://github.com/yareny-delacruz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yareny-delacruz&theme=tokyonight&hide_border=true"  width="520" alt="yareny-delacruz"/></a>
 <a href="https://github.com/yareny-delacruz"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yareny-delacruz&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="yareny-delacruz"/></a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<p align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=1400&pause=500&color=4e72b8&background=0000000E&center=true&multiline=true&width=1920&height=170&lines=Tools+and+Skills+uwu" alt="Typing SVG" /></a>
 </p>
 
 **Languages ​​I have used**
