@@ -7,7 +7,7 @@
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 <div align="left">
-	<img align="right" alt="Mishi" width="400" src="https://i.pinimg.com/originals/d2/ac/82/d2ac82e47b68bf7e6d5635e063bb3a40.gif">
+	<img align="left" alt="Mishi" width="400" src="https://i.pinimg.com/originals/d2/ac/82/d2ac82e47b68bf7e6d5635e063bb3a40.gif">
 </div>
 <div align="right">
 <img align="right" src = "https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" width = 40px height=40px>
