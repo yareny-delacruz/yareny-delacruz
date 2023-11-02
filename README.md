@@ -28,7 +28,9 @@
 </div>
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-
+<p align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=1400&pause=500&color=4e72b8&background=0000000E&center=true&multiline=true&width=1920&height=384&lines=GitHub+stats+uwu" alt="Typing SVG" /></a>
+</p>
 <p align="center">
 <a href="https://github.com/yareny-delacruz/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yareny-delacruz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
