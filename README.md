@@ -16,7 +16,7 @@
 ミ𝘐 𝘢𝘮 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘢𝘣𝘰𝘶𝘵 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘴𝘵𝘶𝘧𝘧彡 <br><br>
 ミ:computer: 𝘐'𝘮 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘐𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘤𝘴 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘵 𝘜𝘗𝘐𝘐𝘊𝘚𝘈 :computer:彡 <br><br>
 ミ:vulcan_salute: 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯: 100 𝘋𝘢𝘺𝘴 100 𝘗𝘳𝘰𝘺𝘦𝘤𝘵𝘴 :vulcan_salute: 彡 <br><br>
-ミ:writing_hand: 𝘔𝘦𝘮𝘣𝘦𝘳 𝘰𝘧 𝘉𝘪𝘯𝘢𝘳𝘺 𝘉𝘳𝘢𝘪𝘯𝘴 𝘜𝘗𝘐𝘐𝘊𝘚𝘈 :writing_hand:彡
+ミ:writing_hand: 𝘔𝘦𝘮𝘣𝘦𝘳 𝘰𝘧 𝘉𝘪𝘯𝘢𝘳𝘺 𝘉𝘳𝘢𝘪𝘯𝘴 𝘜𝘗𝘐𝘐𝘊𝘚𝘈 :writing_hand:彡<br><br>
 </p>
 <img align="right" src = "https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" width = 40px height=40px>
 <h2 align="center" font-weight="bold">🌘Contact me🌘</h2> 
@@ -28,6 +28,7 @@
 </div>
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+	 
 **Languages ​​I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
