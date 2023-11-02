@@ -1,9 +1,9 @@
 # (っ◔◡◔)っ ♥ Hello! Evernya, I'm Fuza ♥ 
 <img align="right" src = "https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" width = 30px height=30px>
 <img align="left" src = "https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" width = 30px height=30px>
-<h1 align = "center">
+<p align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=1400&pause=500&color=4e72b8&background=0000000E&center=true&multiline=true&width=1920&height=384&lines=Hello,+there+!;Welcome+to+my+GitHub+profile+uwu;ミミ◦❧◦°˚°◦.¸¸◦°´❤*•.¸♥ + ♥¸.•*❤´°◦¸¸.◦°˚°◦☙◦彡彡" alt="Typing SVG" /></a>
-</h1>
+</p>
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 <div align="left">
