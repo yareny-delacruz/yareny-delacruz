@@ -4,8 +4,13 @@
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&duration=1400&pause=500&color=4e72b8&background=0000000E&center=true&multiline=true&width=1920&height=384&lines=Hello,+there+!;Welcome+to+my+GitHub+profile+uwu;ミミ◦❧◦°˚°◦.¸¸◦°´❤*•.¸♥ + ♥¸.•*❤´°◦¸¸.◦°˚°◦☙◦彡彡" alt="Typing SVG" /></a>
 </h1>
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+<div align="left">
+	
+</div>
 <div align="right">
-<img align="right" src = "https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" width = 50px height=50px>
+<img align="right" src = "https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" width = 40px height=40px>
 <h2 align="right" font-weight="bold">About me</h2>  
 <p align="right">
 ミ🌘 𝘐 𝘢𝘮 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘢𝘣𝘰𝘶𝘵 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘴𝘵𝘶𝘧𝘧 🌘彡
@@ -13,7 +18,7 @@
 ミ:vulcan_salute: 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯: 100 𝘋𝘢𝘺𝘴 100 𝘗𝘳𝘰𝘺𝘦𝘤𝘵𝘴 :vulcan_salute: 彡
 ミ:writing_hand: 𝘔𝘦𝘮𝘣𝘦𝘳 𝘰𝘧 𝘉𝘪𝘯𝘢𝘳𝘺 𝘉𝘳𝘢𝘪𝘯𝘴 𝘜𝘗𝘐𝘐𝘊𝘚𝘈 :writing_hand:彡
 </p>
-<img align="right" src = "https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" width = 50px height=50px>
+<img align="right" src = "https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" width = 40px height=40px>
 <h2 align="right" font-weight="bold">Contact me</h2> 
 <p align="right">
 	<a href="https://github.com/yareny-delacruz"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
